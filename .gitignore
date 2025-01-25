@@ -1,0 +1,92 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# PyInstaller
+#  Usually these files are written by PyInstaller during the build
+#  process, but you can keep them out of version control
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+media/
+static/
+
+# Flask instance folder
+instance/
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Spyder project settings
+.spyderproject
+.spyderworkspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code Settings
+.vscode/
+
+# Pyre type checker
+.pyre/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# IntelliJ
+.idea/
+
+# JetBrains Rider
+.idea/
+
+# Rider directory
+.idea/
+
+# System Files
+Desktop.ini
